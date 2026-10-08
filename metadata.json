@@ -1,0 +1,6 @@
+{
+  "name": "Mister Inventario - Sistema POS y Control de Inventario",
+  "description": "Landing page de Mister Inventario: el sistema POS y control de inventario definitivo para almacenes y comercios con boletas SII y gestión de fiados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
